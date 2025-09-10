@@ -1,0 +1,8 @@
+streamlit==1.30.0          # versión estable de Streamlit
+bokeh==2.4.3               # versión compatible con Streamlit Cloud
+numpy==1.23.5              # evita el error de np.bool8
+pandas==2.1.1              # ajuste según tu código
+openpyxl==3.1.2            # si trabajas con archivos Excel
+matplotlib==3.7.2          # si usas gráficas adicionales
+scipy==1.11.1              # si tu código lo requiere
+
